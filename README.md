@@ -1,3 +1,5 @@
+![header](assets/header.jpg)
+
 it's blobnix. <br>
 just a curious student who enjoys technology and anime.
 ヾ(≧▽≦*)o 
